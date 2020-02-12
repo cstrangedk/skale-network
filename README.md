@@ -4,9 +4,8 @@
 
 SKALE is a decentralized proof-of-stake network of high-throughput low-latency elastic sidechains that run in parallel with the Ethereum blockchain. Skale enables you to run your dApp with a better user experience without trading-off security. 
 
-[Skale Explainer Video](https://www.youtube.com/watch?v=Twe_hPFGlbY)
+[![](https://www.youtube.com/watch?v=Twe_hPFGlbY)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Twe_hPFGlbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
