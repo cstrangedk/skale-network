@@ -48,26 +48,18 @@ We are working on a CLI tool for developers to request a SKALE chain, but until 
 
 ## Architecture
 
-The SKALE network is comprised of sidechains(s-chains), validator nodes, and the Skale Manager. All nodes operate in a containerized architecture to enable enterprise grade performance and optionality. 
+The SKALE network is comprised of sidechains(s-chains), validator nodes, the Skale Manager, and the Skale daemon (Skale-d). All nodes operate in a containerized architecture to enable enterprise grade performance and optionality. 
 Architecture diagram (update?): https://medium.com/skale/the-skale-tech-stack-5beb025acb6a
 
 ### Sidechains(S-chains)
 
 A S-chain is simply a blockchain that exists alongside the Ethereum mainnet and runs inside of a Docker container. S-chains are elastic because they come in different sizes depending on the needs of the dApp. S-chains operate within a daemon named SKALED. 
 
-### SKALE-d
+### Validator Nodes
 
-Each node runs SKALE-d, or Skale-daemon, which is fully compatible with Ethereum. It is a fork of Aleth, Ethereum's C++ client (shout out and thank you to the Aleth team). SKALE-d uses an improved consensus mechanism and libBLS to enable higher through-put and lower-latency. You can read more about SKALE's consensus and BLS rollup in our developer portal here: 
+The SKALE network is secured by a group of independent validators. These operators can run one or multiple nodes. Each validator node must stake SKALE tokens to participate in the network. Good behavior is incentivized through bounty rewards and bad behavior is disencentivized through slashing.
 
-
-### SKALE Manager
-
-SKALE Manager is a series of smart contracts on the Ethereum mainnet. These smart contracts orchestrate the Skale network. Skale Manager is responsible for the following activities:
-	- node registration
-	- node operation
-	- bounty rewards for validators
-	- S-chain creation
-	- S-chain destruction
+We will provide more information on validator economics before launching the Incentivized DevNet. If you'd like to participate in the Incentivized DevNet, please fill out this form: https://skale.network/validators-signup
 
 ### Docker Containers 
 A validator node consists of, at a minimum, the following 3 Docker containers:
@@ -79,13 +71,20 @@ If a validator node is randomly selected to participate in a S-chain, the follow
     - Interchain Messaging (IMA)
     - S-chain 
 
-You can read more about the Docker containers we use in our developer portal here: https://skale.network/validators/skale-node#list-of-skale-containers
+You can read more about the Docker containers we use in our [developer portal] https://skale.network/validators/skale-node#list-of-skale-containers
 
-### Validators
+### SKALE Manager
 
-The SKALE network is secured by a group of independent validators. These operators can run one or multiple nodes. Each validator node must stake SKALE tokens to participate in the network. Good behavior is incentivized through bounty rewards and bad behavior is disencentivized through slashing.
+SKALE Manager is a series of smart contracts on the Ethereum mainnet. These smart contracts orchestrate the Skale network. Skale Manager is responsible for the following activities:
+  - node registration
+  - node operation
+  - bounty rewards for validators
+  - S-chain creation
+  - S-chain destruction
 
-We will provide more information on validator economics before launching the Incentivized DevNet. If you'd like to participate in the Incentivized DevNet, please fill out this form: https://skale.network/validators-signup
+### SKALE-d
+
+Each node runs SKALE-d, or Skale-daemon, which is fully compatible with Ethereum. It is a fork of Aleth, Ethereum's C++ client (shout out and thank you to the Aleth team). SKALE-d uses an improved consensus mechanism and libBLS to enable higher through-put and lower-latency. You can read more about SKALE's consensus and BLS rollup in our developer portal here: 
 
 
 ## Additional Features
