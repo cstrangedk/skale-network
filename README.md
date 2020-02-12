@@ -71,7 +71,7 @@ If a validator node is randomly selected to participate in a S-chain, the follow
     - Interchain Messaging (IMA)
     - S-chain 
 
-You can read more about the Docker containers we use in our [developer portal] https://skale.network/validators/skale-node#list-of-skale-containers
+You can read more about the Docker containers we use in our [developer portal](https://skale.network/validators/skale-node#list-of-skale-containers)
 
 ### SKALE Manager
 
