@@ -4,6 +4,8 @@
 
 SKALE is a decentralized proof-of-stake network of high-throughput low-latency elastic sidechains that run in parallel with the Ethereum blockchain. Skale enables you to run your dApp with a better user experience without trading-off security. 
 
+[Skale Explainer Video](https://www.youtube.com/watch?v=Twe_hPFGlbY)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  
@@ -31,7 +33,7 @@ Our mission is to empower dApps. We believe in a decentralized world where value
 
 ## SKALE Demos 
 
-We have built several demo dApps that run on Skale. Play around with them to see how quickly transactions are confirmed. 
+We have built several demo dApps that run on Skale. Play around with them and see how quickly transactions are confirmed. 
 
 https://github.com/skalenetwork/skale-demo
 
@@ -59,7 +61,7 @@ A S-chain is simply a blockchain that exists alongside the Ethereum mainnet and 
 
 The SKALE network is secured by a group of independent validators. These operators can run one or multiple nodes. Each validator node must stake SKALE tokens to participate in the network. Good behavior is incentivized through bounty rewards and bad behavior is disencentivized through slashing.
 
-We will provide more information on validator economics before launching the Incentivized DevNet. If you'd like to participate in the Incentivized DevNet, please fill out this form: https://skale.network/validators-signup
+We will provide more information on validator economics before launching the Incentivized DevNet. If you'd like to participate in the Incentivized DevNet, please fill out [this form] (https://skale.network/validators-signup)
 
 ### Docker Containers 
 A validator node consists of, at a minimum, the following 3 Docker containers:
@@ -98,6 +100,9 @@ We have modified the EVM to allow for much larger file storage capabilities. Add
 
 ## Contributing
 
+We would love to get code contributions from our community and are grateful for even the smallest contibutions. 
+
+Please see our [Contributions Guide] (insert link) for some guidelines to follow.
 
 
 
@@ -105,4 +110,5 @@ We have modified the EVM to allow for much larger file storage capabilities. Add
 
 
 
--   [SKALE Developer Community on Discord](http://skale.chat)
+
+
