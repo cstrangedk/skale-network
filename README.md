@@ -1,6 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  
 
   - [Contents](#contents)
 - [SKALE is a decentralized proof-of-stake network of high-throughput low-latency elastic sidechains that run in parallel with the Ethereum blockchain. Skale enables you to run your dApp with a better user experience without trading-off security.](#skale-is-a-decentralized-proof-of-stake-network-of-high-throughput-low-latency-elastic-sidechains-that-run-in-parallel-with-the-ethereum-blockchain-skale-enables-you-to-run-your-dapp-with-a-better-user-experience-without-trading-off-security)
