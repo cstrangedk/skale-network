@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 =======
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  
 
-  - [Contents](#contents)
-- [SKALE is a decentralized proof-of-stake network of high-throughput low-latency elastic sidechains that run in parallel with the Ethereum blockchain. Skale enables you to run your dApp with a better user experience without trading-off security.](#skale-is-a-decentralized-proof-of-stake-network-of-high-throughput-low-latency-elastic-sidechains-that-run-in-parallel-with-the-ethereum-blockchain-skale-enables-you-to-run-your-dapp-with-a-better-user-experience-without-trading-off-security)
-- [<a id="mission"></a>SKALE'S Mission](#a-idmissionaskales-mission)
+- [SKALE'S Mission](mission)
 - [SKALE Demos](#skale-demos)
 - [Getting Started with SKALE](#getting-started-with-skale)
 - [Architecture](#architecture)
@@ -29,9 +26,9 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
-## SKALE is a decentralized proof-of-stake network of high-throughput low-latency elastic sidechains that run in parallel with the Ethereum blockchain. Skale enables you to run your dApp with a better user experience without trading-off security. 
+SKALE is a decentralized proof-of-stake network of high-throughput low-latency elastic sidechains that run in parallel with the Ethereum blockchain. Skale enables you to run your dApp with a better user experience without trading-off security. 
 
-## <a id="mission"></a>SKALE'S Mission 
+## SKALE'S Mission 
 Our mission is to empower dApps. We believe in a decentralized world where value accrues more equitably and we are building infrastructure to support a thriving dApp ecosystem. 
 
 ## SKALE Demos 
