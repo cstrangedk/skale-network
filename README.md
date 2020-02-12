@@ -1,7 +1,8 @@
-=======
 <div align="center">
   <img src="https://uploads-ssl.webflow.com/5be05ae542686c4ebf192462/5be2f8beb08f6d0fbd2ea797_Skale_Logo_Blue-p-500.png"><br><br>
 </div>
+
+SKALE is a decentralized proof-of-stake network of high-throughput low-latency elastic sidechains that run in parallel with the Ethereum blockchain. Skale enables you to run your dApp with a better user experience without trading-off security. 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -24,8 +25,6 @@
 [![Discord](https://img.shields.io/badge/chat-discord.chat-yellow.svg?style=flat)](https://discord.gg/mtAy3cv)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-
-SKALE is a decentralized proof-of-stake network of high-throughput low-latency elastic sidechains that run in parallel with the Ethereum blockchain. Skale enables you to run your dApp with a better user experience without trading-off security. 
 
 ## SKALE'S Mission 
 Our mission is to empower dApps. We believe in a decentralized world where value accrues more equitably and we are building infrastructure to support a thriving dApp ecosystem. 
