@@ -7,6 +7,8 @@
 
 <!-- TOC -->
 
+### Contents
+
 - [SKALE'S MISSION](#mission)
 - [SKALE Demos](#demos)
 - [Getting started with SKALE](#gettingcstarted)
@@ -22,7 +24,7 @@
 
 ## SKALE is a decentralized proof-of-stake network of high-throughput low-latency elastic sidechains that run in parallel with the Ethereum blockchain. Skale enables you to run your dApp with a better user experience without trading-off security. 
 
-## SKALE'S Mission 
+## <a id="mission"></a>SKALE'S Mission 
 Our mission is to empower dApps. We believe in a decentralized world where value accrues more equitably and we are building infrastructure to support a thriving dApp ecosystem. 
 
 ## SKALE Demos 
